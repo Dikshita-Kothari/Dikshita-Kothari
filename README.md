@@ -18,7 +18,7 @@ I am Dikshita Kothari
 - 💞️ I’m looking to collaborate and freelance so feel free to reach out.
 - 📫 Reach me on...
   
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/dikshita-kothari-951961264/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
